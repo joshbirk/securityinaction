@@ -1,0 +1,71 @@
+title: Salesforce Security Workshop
+description: Hands-on workshop for hardening your Salesforce org against the most common data-access breaches.
+
+# -------------------------------------------------------------------
+# IMPORTANT — baseurl
+# -------------------------------------------------------------------
+# If your site lives at:   https://USER.github.io/REPO-NAME/
+# you MUST set:            baseurl: "/REPO-NAME"
+#
+# If your site lives at:   https://USER.github.io/   (a user/org site)
+# leave:                   baseurl: ""
+#
+# Getting this wrong is the #1 cause of "no CSS + every link 404s".
+# -------------------------------------------------------------------
+baseurl: ""
+url: ""
+
+# Theme — remote_theme lets GitHub Pages fetch just-the-docs at build
+# time without checking the whole theme into your repo.
+remote_theme: just-the-docs/just-the-docs
+
+# Built-in search
+search_enabled: true
+search:
+  heading_level: 3
+  previews: 3
+  preview_words_before: 5
+  preview_words_after: 10
+  tokenizer_separator: /[\s\-/]+/
+  rel_url: true
+  button: false
+
+# Aux links (top-right corner) — replace with your repo URL or delete
+aux_links:
+  "View on GitHub":
+    - "//github.com/YOUR-USERNAME/YOUR-REPO"
+aux_links_new_tab: true
+
+# Footer
+footer_content: 'Workshop content &copy; the authors. Generated with <a href="https://just-the-docs.com">Just the Docs</a>.'
+
+# Last-edit metadata (only shows once you have git history)
+last_edit_timestamp: true
+last_edit_time_format: "%b %e %Y at %I:%M %p"
+
+# Heading anchor links + back-to-top
+heading_anchors: true
+back_to_top: true
+back_to_top_text: "Back to top"
+
+# Plugins (allowed on GitHub Pages)
+plugins:
+  - jekyll-remote-theme
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+# Build settings
+markdown: kramdown
+kramdown:
+  syntax_highlighter_opts:
+    block:
+      line_numbers: false
+
+# Don't process these
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor
+  - README.md
+  - .github

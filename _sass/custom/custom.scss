@@ -1,0 +1,95 @@
+// =====================================================================
+// Custom styles for the Salesforce Security Workshop site.
+// just-the-docs auto-imports this file at the END of its stylesheet,
+// so anything here wins. This is the documented, reliable way to
+// customize just-the-docs (works with remote_theme).
+//
+// Reference: https://just-the-docs.com/docs/customization/
+// =====================================================================
+
+// Salesforce-adjacent palette
+$sf-blue:        #0070d2;   // Lightning blue (primary)
+$sf-blue-light:  #1589EE;
+$sf-blue-tint:   #eaf5fe;
+$sf-blue-bg:     #f0f7fd;
+$sf-navy:        #16325c;   // body text
+$sf-navy-deep:   #032d60;   // headings
+$sf-gray:        #54698d;
+$sf-border:      #e1e8ed;
+
+// Link color
+.site-nav a,
+.main-content a {
+  color: $sf-blue;
+}
+
+// Body text + headings
+.main-content {
+  color: $sf-navy;
+
+  h1, h2, h3, h4, h5, h6 {
+    color: $sf-navy-deep;
+    letter-spacing: -0.01em;
+  }
+}
+
+// Page title (the front-matter title rendered at top of each page)
+.main-content h1:first-child {
+  border-bottom: 2px solid $sf-blue;
+  padding-bottom: 0.4em;
+}
+
+// Numbered step lists — give the numbers brand-blue weight so they
+// stand out from instruction text. Workshop content is almost
+// entirely numbered procedures, so this earns its keep.
+.main-content ol > li::marker {
+  font-weight: 600;
+  color: $sf-blue;
+}
+
+// Code/kbd elements: tighten the look so settings names ("Quick Find",
+// "Setup", etc.) read as configuration rather than emphasis.
+.main-content code {
+  font-size: 0.875em;
+  padding: 0.15em 0.4em;
+  border-radius: 3px;
+  background-color: $sf-blue-tint;
+  color: $sf-navy-deep;
+  border: 1px solid $sf-border;
+}
+
+// Images: subtle border + shadow so screenshots feel like
+// embedded UI fragments, not floating decoration.
+.main-content img {
+  border: 1px solid $sf-border;
+  border-radius: 4px;
+  box-shadow: 0 1px 3px rgba(3, 45, 96, 0.08);
+  max-width: 100%;
+  margin: 0.5rem 0;
+}
+
+// Callout/blockquote: turn into a "security note" lookalike
+.main-content blockquote {
+  border-left: 4px solid $sf-blue;
+  background: $sf-blue-bg;
+  padding: 0.75rem 1rem;
+  margin: 1rem 0;
+  color: $sf-navy;
+}
+
+// Active sidebar item — emphasize current location
+.nav-list .nav-list-item .nav-list-link.active {
+  font-weight: 600;
+  color: $sf-blue;
+  background-image: linear-gradient(
+    -90deg,
+    rgba(0, 112, 210, 0.08) 0%,
+    rgba(0, 112, 210, 0) 80%
+  );
+}
+
+// Site title in the top-left
+.site-title {
+  font-weight: 700;
+  color: $sf-navy-deep !important;
+}
