@@ -2,26 +2,24 @@
 
 ---
 
-# **Exercise 5: Fix Remaining Risks (Optional)**
+# Exercise 5: Fix Remaining Risks (Optional)
 
-## **Exercise 5: Fix Remaining Risks (Optional)**
-
-### **Scenario**
+### Scenario
 
 We have manually resolved several of our critical Security Settings and you would now like to fix the remaining risks in bulk.
 
-### **Step 1: Return to Health Check**
+### Step 1: Return to Health Check
 
 1. From the Home Page, open Setup.
 
 ![](../assets/images/image35.png)
 
-2. Type Health Check into the Quick Find  
+2. Type Health Check into the Quick Find
 3. Select **Health Check**
 
 ![](../assets/images/image36.png)
 
-4. Click **Fix Risks** 
+4. Click **Fix Risks**
 
 ![](../assets/images/image37.png)
 
@@ -33,7 +31,7 @@ We have manually resolved several of our critical Security Settings and you woul
 
 ![](../assets/images/image39.png)
 
-Your Security Score and Status in comparison to your Custom Baseline are now in excellent shape\!
+Your Security Score and Status in comparison to your Custom Baseline are now in excellent shape!
 
 ---
 
