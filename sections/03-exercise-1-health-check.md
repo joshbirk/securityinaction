@@ -3,7 +3,7 @@ title: "Exercise 1: Health Check"
 nav_order: 3
 ---
 
-[← Data & Access Overview](02-data-and-access-overview.md) | [Project Home](../README.md) | [Exercise 2: Update Session Security →](04-exercise-2-update-session-security.md)
+[← Data & Access Overview](02-data-and-access-overview.md) | [Project Home](../index.md) | [Exercise 2: Update Session Security →](04-exercise-2-update-session-security.md)
 
 ---
 
@@ -45,4 +45,4 @@ With a Poor security score and several Critical status settings to review it can
 
 ---
 
-[← Data & Access Overview](02-data-and-access-overview.md) | [Project Home](../README.md) | [Exercise 2: Update Session Security →](04-exercise-2-update-session-security.md)
+[← Data & Access Overview](02-data-and-access-overview.md) | [Project Home](../index.md) | [Exercise 2: Update Session Security →](04-exercise-2-update-session-security.md)

@@ -3,7 +3,7 @@ title: Additional Resources
 nav_order: 14
 ---
 
-[← Further Reading: Experience Cloud](13-further-reading-experience-cloud.md) | [Project Home](../README.md)
+[← Further Reading: Experience Cloud](13-further-reading-experience-cloud.md) | [Project Home](../index.md)
 
 ---
 
@@ -54,4 +54,4 @@ Salesforce's free gamified learning platform offers specific "trails" for securi
 
 ---
 
-[← Further Reading: Experience Cloud](13-further-reading-experience-cloud.md) | [Project Home](../README.md)
+[← Further Reading: Experience Cloud](13-further-reading-experience-cloud.md) | [Project Home](../index.md)

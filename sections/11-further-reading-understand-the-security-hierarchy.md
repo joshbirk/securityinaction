@@ -3,7 +3,7 @@ title: "Further Reading: Understand the Security Hierarchy"
 nav_order: 11
 ---
 
-[← Further Reading: Using the Audit Trail](10-further-reading-using-the-audit-trail.md) | [Project Home](../README.md) | [Further Reading: Session Based Problem Users →](12-further-reading-session-based-problem-users.md)
+[← Further Reading: Using the Audit Trail](10-further-reading-using-the-audit-trail.md) | [Project Home](../index.md) | [Further Reading: Session Based Problem Users →](12-further-reading-session-based-problem-users.md)
 
 ---
 
@@ -35,4 +35,4 @@ These layers allow an admin to follow the Principle of Least Privilege by starti
 
 ---
 
-[← Further Reading: Using the Audit Trail](10-further-reading-using-the-audit-trail.md) | [Project Home](../README.md) | [Further Reading: Session Based Problem Users →](12-further-reading-session-based-problem-users.md)
+[← Further Reading: Using the Audit Trail](10-further-reading-using-the-audit-trail.md) | [Project Home](../index.md) | [Further Reading: Session Based Problem Users →](12-further-reading-session-based-problem-users.md)

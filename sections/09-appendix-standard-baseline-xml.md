@@ -3,7 +3,7 @@ title: "Appendix: Standard Baseline XML"
 nav_order: 9
 ---
 
-[← Exercise 6: Secure Your Data with Shield](08-exercise-6-secure-your-data-with-shield.md) | [Project Home](../README.md) | [Further Reading: Using the Audit Trail →](10-further-reading-using-the-audit-trail.md)
+[← Exercise 6: Secure Your Data with Shield](08-exercise-6-secure-your-data-with-shield.md) | [Project Home](../index.md) | [Further Reading: Using the Audit Trail →](10-further-reading-using-the-audit-trail.md)
 
 ---
 
@@ -75,4 +75,4 @@ Reference file for Exercise 4. Copy and paste this content if you are unable to 
 
 ---
 
-[← Exercise 6: Secure Your Data with Shield](08-exercise-6-secure-your-data-with-shield.md) | [Project Home](../README.md) | [Further Reading: Using the Audit Trail →](10-further-reading-using-the-audit-trail.md)
+[← Exercise 6: Secure Your Data with Shield](08-exercise-6-secure-your-data-with-shield.md) | [Project Home](../index.md) | [Further Reading: Using the Audit Trail →](10-further-reading-using-the-audit-trail.md)

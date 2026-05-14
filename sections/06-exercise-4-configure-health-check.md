@@ -3,7 +3,7 @@ title: "Exercise 4: Configure Health Check"
 nav_order: 6
 ---
 
-[← Exercise 3: User Security](05-exercise-3-user-security.md) | [Project Home](../README.md) | [Exercise 5: Fix Remaining Risks (Optional) →](07-exercise-5-fix-remaining-risks-optional.md)
+[← Exercise 3: User Security](05-exercise-3-user-security.md) | [Project Home](../index.md) | [Exercise 5: Fix Remaining Risks (Optional) →](07-exercise-5-fix-remaining-risks-optional.md)
 
 ---
 
@@ -120,4 +120,4 @@ We purposely fixed security settings by group so that we could understand some o
 
 ---
 
-[← Exercise 3: User Security](05-exercise-3-user-security.md) | [Project Home](../README.md) | [Exercise 5: Fix Remaining Risks (Optional) →](07-exercise-5-fix-remaining-risks-optional.md)
+[← Exercise 3: User Security](05-exercise-3-user-security.md) | [Project Home](../index.md) | [Exercise 5: Fix Remaining Risks (Optional) →](07-exercise-5-fix-remaining-risks-optional.md)

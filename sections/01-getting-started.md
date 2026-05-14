@@ -3,7 +3,7 @@ title: Getting Started
 nav_order: 1
 ---
 
-[Project Home](../README.md) | [Data & Access Overview →](02-data-and-access-overview.md)
+[Project Home](../index.md) | [Data & Access Overview →](02-data-and-access-overview.md)
 
 ---
 
@@ -37,4 +37,4 @@ Once your org is set up, continue to the first exercise:
 
 ---
 
-[Project Home](../README.md) | [Data & Access Overview →](02-data-and-access-overview.md)
+[Project Home](../index.md) | [Data & Access Overview →](02-data-and-access-overview.md)
