@@ -1,6 +1,6 @@
 title: Security in Action
 description: Salesforce Admin Security Workshop
-theme: just-the-docs
+remote_theme: just-the-docs/just-the-docs
 
 url: https://joshbirk.github.io
 baseurl: /securityinaction
