@@ -1,3 +1,8 @@
+---
+title: "Exercise 5: Fix Remaining Risks (Optional)"
+nav_order: 7
+---
+
 [← Exercise 4: Configure Health Check](06-exercise-4-configure-health-check.md) | [Project Home](../README.md) | [Exercise 6: Secure Your Data with Shield →](08-exercise-6-secure-your-data-with-shield.md)
 
 ---

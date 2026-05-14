@@ -1,3 +1,8 @@
+---
+title: "Further Reading: Experience Cloud Security"
+nav_order: 13
+---
+
 [← Further Reading: Session Based Problem Users](12-further-reading-session-based-problem-users.md) | [Project Home](../README.md) | [Additional Resources →](14-additional-resources.md)
 
 ---

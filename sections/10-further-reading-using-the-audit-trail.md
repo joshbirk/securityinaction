@@ -1,3 +1,8 @@
+---
+title: "Further Reading: Using the Audit Trail"
+nav_order: 10
+---
+
 [← Appendix: Standard Baseline XML](09-appendix-standard-baseline-xml.md) | [Project Home](../README.md) | [Further Reading: Understand the Security Hierarchy →](11-further-reading-understand-the-security-hierarchy.md)
 
 ---

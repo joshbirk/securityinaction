@@ -1,3 +1,8 @@
+---
+title: "Exercise 6: Secure Your Data with Shield"
+nav_order: 8
+---
+
 [← Exercise 5: Fix Remaining Risks (Optional)](07-exercise-5-fix-remaining-risks-optional.md) | [Project Home](../README.md) | [Appendix: Standard Baseline XML →](09-appendix-standard-baseline-xml.md)
 
 ---

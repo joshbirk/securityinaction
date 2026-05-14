@@ -1,0 +1,21 @@
+title: Security in Action
+description: Salesforce Admin Security Workshop
+theme: just-the-docs
+
+url: https://joshbirk.github.io
+baseurl: /securityinaction
+
+permalink: pretty
+
+aux_links:
+  "View on GitHub":
+    - "https://github.com/joshbirk/securityinaction"
+
+# Footer
+footer_content: "Salesforce Admin Security Workshop"
+
+# Color scheme
+color_scheme: light
+
+# Nav
+nav_sort: order

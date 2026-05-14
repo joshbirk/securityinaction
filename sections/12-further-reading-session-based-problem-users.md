@@ -1,3 +1,8 @@
+---
+title: "Further Reading: Session Based Problem Users"
+nav_order: 12
+---
+
 [← Further Reading: Understand the Security Hierarchy](11-further-reading-understand-the-security-hierarchy.md) | [Project Home](../README.md) | [Further Reading: Experience Cloud →](13-further-reading-experience-cloud.md)
 
 ---

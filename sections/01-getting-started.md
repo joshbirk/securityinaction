@@ -1,3 +1,8 @@
+---
+title: Getting Started
+nav_order: 1
+---
+
 [Project Home](../README.md) | [Data & Access Overview →](02-data-and-access-overview.md)
 
 ---

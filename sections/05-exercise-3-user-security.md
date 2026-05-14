@@ -1,3 +1,8 @@
+---
+title: "Exercise 3: User Security"
+nav_order: 5
+---
+
 [← Exercise 2: Update Session Security](04-exercise-2-update-session-security.md) | [Project Home](../README.md) | [Exercise 4: Configure Health Check →](06-exercise-4-configure-health-check.md)
 
 ---

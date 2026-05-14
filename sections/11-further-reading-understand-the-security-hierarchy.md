@@ -1,3 +1,8 @@
+---
+title: "Further Reading: Understand the Security Hierarchy"
+nav_order: 11
+---
+
 [← Further Reading: Using the Audit Trail](10-further-reading-using-the-audit-trail.md) | [Project Home](../README.md) | [Further Reading: Session Based Problem Users →](12-further-reading-session-based-problem-users.md)
 
 ---
