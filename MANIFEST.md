@@ -1,3 +1,7 @@
+---
+nav_exclude: true
+---
+
 # File Manifest
 
 Source: `Salesforce Admin Security Workshop Workbook v2.md`
