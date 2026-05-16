@@ -11,18 +11,7 @@ nav_order: 4
 
 In this exercise, we will take action on critical security vulnerabilities to increase our org's security posture and Health Check security score.
 
-### Scenario
-
-You are the new Salesforce admin at an organization and while doing your first review of your new org's Health Check, you notice the poor security score and several non-compliant Security Settings. You decide to focus on the Critical Status items to better secure your org.
-
-By the end of this chapter, you will have resolved 2 critical security issues:
-
-* **MFA Enabled** - instead of just using a password to log in, users will also have to confirm their identity through a second step—like a notification on their phone or a code—to prove it's really them and keep hackers out. Salesforce is taking MFA security a step farther to better protect your org's most privileged accounts by enforcing phishing-resistant MFA for System Administrators and users with Modify All Data, View All Data, Customize Application, or Author Apex permissions.
-* **Enforce login IP ranges on every request** - Salesforce doesn't just check user location when they first log in, but continues to verify that your users are still on a trusted network every single time they click a link or save a page, immediately cutting off access if they switch to an unapproved connection.
-
-Both of these flaws are problematic for secured access to your organization.
-
-### The Many Factors Of Security
+### The Many Factors of Security
 
 The most basic concept of being able to access either a platform or an application is provisioned through the concept of three basic rules of security. This is something you know, something you have, and something you are.
 
@@ -46,6 +35,17 @@ This is based on your unique physical biological characteristics. These are ofte
 
 * **Examples:** Fingerprint scans, FaceID, or retina scans.
 * **The Strength:** This is extremely difficult to replicate or steal. It ensures the person logging in is physically the same human being who owns the account.
+
+### Scenario
+
+You are the new Salesforce Admin at an organization and while doing your first review of your new org's Health Check, you notice the poor security score and several non-compliant Security Settings. You decide to focus on the Critical Status items to better secure your org.
+
+By the end of this chapter, you will have implemented 2 critical security protections:
+
+* **Enable MFA** - instead of just using a password to log in, users will also have to confirm their identity through a second step—like a notification on their phone or a code—to prove it's really them and keep hackers out. All Salesforce users are required to use MFA. Salesforce is taking MFA security a step farther to better protect your org's most privileged accounts by enforcing phishing-resistant MFA for System Administrators and users with Modify All Data, View All Data, Customize Application, or Author Apex permissions.
+* **Enforce login IP ranges on every request** - Salesforce doesn't just check user location when they first log in, but continues to verify that your users are still on a trusted network every single time they click a link or save a page, immediately cutting off access if they switch to an unapproved connection.
+
+Both of these configurations are important safeguards for securing access to your Salesforce instance.
 
 ### Step 1: Enable MFA
 
@@ -73,7 +73,7 @@ Trusted IP Ranges allow you to have known ranges of login locations you would ex
 
 ![](../assets/images/image6.png)
 
-3. Copy your IP address results
+3. Copy your IP address results.
 4. Go back to Salesforce and open **Setup**
 
 ![](../assets/images/image1.png)

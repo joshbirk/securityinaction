@@ -11,7 +11,7 @@ nav_order: 7
 
 ### Scenario
 
-We have manually resolved several of our critical Security Settings and you would now like to fix the remaining risks in bulk.
+We have manually resolved several of our critical Security Settings. Now let's fix the remaining risks in bulk.
 
 ### Step 1: Return to Health Check
 
@@ -36,7 +36,9 @@ We have manually resolved several of our critical Security Settings and you woul
 
 ![](../assets/images/image39.png)
 
-Your Security Score and Status in comparison to your Custom Baseline are now in excellent shape!
+### Summary
+
+In this exercise, you used Health Check's Fix Risks feature to apply recommended security settings in bulk, quickly remediating the remainder of security risks at once. Your Security Score and Status in comparison to your Custom Baseline are now in excellent shape! Keep in mind that Health Check is able to fix many of these risks on your behalf, but it is important for admins to know what the settings are enforcing and how they will impact users.
 
 ---
 

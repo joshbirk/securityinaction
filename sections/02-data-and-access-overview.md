@@ -17,7 +17,7 @@ This workshop is designed to build skills for Salesforce admins to become the fr
 
 **Audit Data Visibility:** Conduct a deep dive into profiles and permission sets to enforce the **Principle of Least Privilege**, ensuring users only see what they absolutely need.
 
-**Enable Proactive Monitoring:** Configure enhanceable security products including Salesforce Shield to detect and alert on suspicious activity in real-time.
+**Monitor for Threats:** Configure enhanceable security products including Salesforce Shield to detect and alert on suspicious activity in real-time.
 
 **Establish a Security Cadence:** Develop a recurring checklist for health checks and user access reviews to maintain a permanent state of readiness.
 

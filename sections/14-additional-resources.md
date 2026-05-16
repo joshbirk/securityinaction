@@ -23,7 +23,9 @@ This is the primary hub for transparency and security updates. It provides real-
 
 ## Salesforce Shield
 
-Shield is a premium suite of security tools designed for high-compliance industries (like Finance or Healthcare) that need granular control over data. It consists of four main components:
+[Shield Data Sheet](https://www.salesforce.com/content/dam/web/en_us/www/documents/platform/Shield-Datasheet.pdf) | [Shield Demo](https://www.salesforce.com/platform/conf/demos/shield-overview/) | [Webinar: Implement Shield in 20 Minutes](https://www.salesforce.com/events/webinars/implement-salesforce-shield-20-minutes/) | [Trailhead: Secure your Apps with Salesforce Shield](https://trailhead.salesforce.com/content/learn/trails/shield)
+
+Shield is a suite of advanced security and compliance tools designed for organizations in highly regulated industries or organizations that store critical or sensitive data. It consists of four main components:
 
 * **Platform Encryption:** Unlike standard encryption, this allows you to encrypt sensitive data at rest (fields, files, and attachments) while still maintaining platform functionality like search and workflow.
 * **Event Monitoring:** Provides a "behind-the-scenes" look at user activity. You can track who is accessing what data, from which IP, and even see when someone downloads a report.
@@ -32,6 +34,8 @@ Shield is a premium suite of security tools designed for high-compliance industr
 * **Data Detect:** Uses managed data discovery to scan your org for sensitive information (like PII or credit card numbers) that might be stored in the wrong places, helping you categorize data for compliance.
 
 ## Security Center
+
+[Datasheet](https://www.salesforce.com/content/dam/web/en_us/www/documents/platform/Security-Center-Salesforce-Datasheet.pdf) | [Demo](https://www.salesforce.com/platform/demos/security-center/) | [Trailhead](https://trailhead.salesforce.com/content/learn/modules/security-center) | [Web](https://www.salesforce.com/platform/security-center/)
 
 If Shield is about *securing the data*, Security Center is about *managing the posture* across your entire ecosystem. It is essential if you manage more than one Salesforce org.
 

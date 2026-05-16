@@ -11,11 +11,11 @@ nav_order: 5
 
 ### Scenario
 
-We've all been there: a user is in a rush to get data logged, hits a *Permission Denied* error, and suddenly it's an Admin Emergency. A former admin decided to give every user *View All* and *Modify All* access just to avoid the influx of support tickets. While the team is definitely working unhindered, our org committed the ultimate security cardinal sin by ignoring the Principle of Least Privilege. In this exercise, we're going to reel in that over-shared access and make sure our users have exactly what they need to do their jobs—and absolutely nothing more.
+We've all been there: a user is in a rush to get data logged, hits a *Permission Denied* error, and suddenly it's an admin emergency. To avoid an influx of support tickets, a former admin decided to give every user *View All* and *Modify All* access. While the team is definitely working unhindered, the org is violating the Principle of Least Privilege. In this exercise, we're going to reel in that over-shared access and make sure users have exactly what they need to do their jobs—and absolutely nothing more.
 
 **The Principle of Least Privilege**
 
-The Principle of Least Privilege says that your user should only have the permissions they need to do their job, and nothing else. As admins, we often deal with permission creep and have seen scenarios where users have been granted "God Mode" or system level access. Your user may not run into as many roadblocks with full access, but this creates many security and data concerns.
+The Principle of Least Privilege says users should only have the permissions they need to do their job, and nothing else. As admins, we often deal with permission creep and have seen scenarios where users have been granted increasingly broad access, often well beyond what their role requires. Users may not run into as many roadblocks with full access, but this creates many security and data concerns.
 
 > **Further Reading:** [Understand the Security Hierarchy](11-further-reading-understand-the-security-hierarchy.md)
 
@@ -91,7 +91,11 @@ As you can see, we have 5 System Administrators even though you are the only Sal
 
 ![](../assets/images/image24.png)
 
-> **Tip:** Best practice is to apply a permission set led security model that is scalable. Profiles set the minimum access for your users. For maximum restriction, you can use the Minimum Access - Salesforce profile as a baseline and add additional access using Permission Sets and Permission Set Groups.
+> **Tip:** Apply a permission set led security model that is scalable. Profiles set the minimum access for your users. For maximum restriction, you can use the Minimum Access - Salesforce profile as a baseline and add additional access using Permission Sets and Permission Set Groups.
+
+### Summary
+
+We have used User Access Summaries, Reports, and our Health Check as tools to uncover and update user settings to enforce the Principle of Least Privilege in our Salesforce instance. If we were to continue down this path beyond this workshop, our next steps to continue to refine User Management at our organization might be to move to a permission set led model that is scalable and secure. By shifting your mindset from profiles defining access to permission sets layering access, you'll build a system that's easier to maintain, easier to audit, and easier to adapt as your org grows. But now, let's head back to Health Check and continue to configure security settings for our org.
 
 > **Further Reading:** [Session Based Problem Users and Reports to Find Them](12-further-reading-session-based-problem-users.md)
 

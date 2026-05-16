@@ -9,9 +9,9 @@ nav_order: 12
 
 # Further Reading: Session Based Problem Users
 
-### 1. The "Zombie" User (Inactive but Alive)
+### 1. The "Dormant" User (Inactive but Alive)
 
-A Zombie User is a defunct account that was never properly deactivated.
+A Dormant User is a defunct account that was never properly deactivated.
 
 * **The Scenario:** An employee leaves the company, but the Admin only disables their email. The Salesforce user record remains "Active."
 * **The Risk:** If the former employee can still access the network (or if their password is known), they can log in and export data. This is a massive compliance failure.
@@ -22,7 +22,7 @@ A Zombie User is a defunct account that was never properly deactivated.
 These are accounts created for a specific purpose—usually an integration, a consultant, or a temporary project—that no longer has an "owner."
 
 * **The Scenario:** A consultant built a custom integration three years ago using a dedicated user license. The consultant is gone, the integration is deprecated, but the user account is still active and has "System Administrator" permissions.
-* **The Risk:** These accounts are high-value targets for hackers because they often have "God Mode" access and nobody is watching their login activity.
+* **The Risk:** These accounts are high-value targets for hackers because they often have broad administrative access and nobody is watching their login activity.
 * **The Indicator:** High-privilege accounts with no clear human owner or associated active project.
 
 ### 3. The "Ghost" Admin (Admin Creep)

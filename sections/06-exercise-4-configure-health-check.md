@@ -116,6 +116,10 @@ Your xml should now look like this:
 
 We purposely fixed security settings by group so that we could understand some of the important changes Health Check was going to make. Using the *Fix Risks* tool, you can update multiple (or all) security settings all at once. Health Check is designed to help protect your users and external vectors from having too much or inappropriate access to your system. It does not, however, dig into your data for potential vulnerabilities—so let's look at that next.
 
+### Summary
+
+Health Check is more than just a list of security settings. By setting up notifications when your Security Score changes, and importing a custom baseline, Health Check becomes your risk mitigation dashboard and helps admins shift from being reactive with security concerns to having a proactive security strategy. We did this by configuring Password Policies, exporting the Salesforce Baseline Standard and importing a custom baseline, and setting up notifications when our Security Score changes.
+
 #### Next: Secure your Data with Shield
 
 ---
