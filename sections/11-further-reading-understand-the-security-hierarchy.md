@@ -31,7 +31,7 @@ First, let's define the hierarchy of Salesforce security and Field-Level Securit
 * **The Administrative Bundle:** This is the highest level of organization. It allows admins to bundle several Permission Sets together into a single package.
 * **The Role:** Instead of assigning 10 individual permission sets to a new hire, you assign one "Group" that contains all of them. This ensures consistency and simplifies user management.
 
-These layers allow an admin to follow the Principle of Least Privilege by starting with the least permissive foundation (Org Wide Defaults) and layering in new functionality and access by building on top of profiles and organizing permissions into groups.
+These layers allow an admin to follow the Principle of Least Privilege by starting with the least permissive foundation (Org-Wide Defaults) and layering in new functionality and access by building on top of profiles and organizing permissions into groups.
 
 ---
 

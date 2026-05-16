@@ -22,8 +22,8 @@ According to the [Salesforce Security Documentation](https://help.salesforce.com
 * **Over-Permissive Guest Profiles:** Guest users (people who aren't logged in) may inadvertently be granted "Read" or "View All" access to sensitive objects.
 * **Aura/API Exploits:** Malicious actors often use tools (like Aura Inspector) to probe public-facing API endpoints. If "API Enabled" is checked on a guest profile, they can query your data directly.
 * **Insecure "Internal" Defaults:** If your Org-Wide Defaults (OWD) are set to "Public" internally, they may leak to the external site unless the **External OWD** is explicitly set to **Private**.
-* **Clickjacking:** Hackers can use "iframes" to trick your portal users into clicking malicious links that appear to be part of your trusted site.
-* **Member Visibility:** Out-of-the-box settings might allow customers from different companies to "see" each other's profiles and contact info, leading to a massive privacy breach.
+* **Clickjacking:** Attackers can use iframes to trick your portal users into clicking malicious links that appear to be part of your trusted site.
+* **Member Visibility:** Default settings may allow customers from different companies to see each other's profiles and contact info, leading to a significant privacy breach.
 
 ### Summary of Best Practices
 

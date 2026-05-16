@@ -18,8 +18,8 @@ This tool tracks "Who changed the security settings?" It is your best defense ag
 * **How to use it:**
   1. Go to **Setup > Security > View Setup Audit Trail**.
   2. Download the last six months of data as a `.csv`.
-  3. **Search for:** Keywords like "Login IP," "MFA," or "Permission Set."
-  4. **The Result:** You can see exactly which Admin deleted the IP range and at what time, allowing for a "post-mortem" coaching session.
+  3. **Search for:** keywords like "Login IP," "MFA," or "Permission Set."
+  4. **The Result:** You can see exactly which admin deleted the IP range and at what time, allowing for a post-mortem coaching session.
 
 ---
 
