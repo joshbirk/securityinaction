@@ -2,7 +2,7 @@
 nav_exclude: true
 ---
 
-# Security in Action
+# Security In Action
 ### Salesforce Admin Security Workshop
 
 This workshop empowers Salesforce admins to become the front-line defender of their organization's data. Security is no longer just about preventing unauthorized logins—it is about ensuring that the data fueling your organization is protected and strictly governed. In a landscape where an over-privileged permission can lead to an AI-driven data leak, a secure org is the essential foundation for customer trust and operational integrity.

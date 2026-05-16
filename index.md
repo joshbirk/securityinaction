@@ -3,7 +3,7 @@ title: Home
 nav_order: 0
 ---
 
-# Security in Action
+# Security In Action
 ### Salesforce Admin Security Workshop
 
 In this workshop, you'll be empowered to become the front-line defender of your org by mastering the guardrails necessary to prevent over-privileged data leaks. You'll get hands-on experience identifying and mitigating real-world vulnerabilities to ensure your environment remains a trusted foundation for both your users and your agents.
