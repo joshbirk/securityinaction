@@ -1,13 +1,14 @@
 ---
-title: "Exercise 3: User Security"
+title: "Exercise 3: Dive into User Security"
 nav_order: 5
 ---
 
 [← Exercise 2: Update Session Security](04-exercise-2-update-session-security.md) | [Project Home](../index.md) | [Exercise 4: Configure Health Check →](06-exercise-4-configure-health-check.md)
 
+
 ---
 
-# Exercise 3: User Security
+# Exercise 3: Dive into User Security
 
 ### Scenario
 
@@ -104,3 +105,4 @@ We have used User Access Summaries, Reports, and our Health Check as tools to un
 ---
 
 [← Exercise 2: Update Session Security](04-exercise-2-update-session-security.md) | [Project Home](../index.md) | [Exercise 4: Configure Health Check →](06-exercise-4-configure-health-check.md)
+

@@ -3,7 +3,7 @@ title: "Exercise 4: Configure Health Check"
 nav_order: 6
 ---
 
-[← Exercise 3: User Security](05-exercise-3-user-security.md) | [Project Home](../index.md) | [Exercise 5: Fix Remaining Risks (Optional) →](07-exercise-5-fix-remaining-risks-optional.md)
+[← Exercise 3: Dive into User Security](05-exercise-3-user-security.md) | [Project Home](../index.md) | [Exercise 5: Fix Remaining Risks (Optional) →](07-exercise-5-fix-remaining-risks-optional.md)
 
 ---
 
@@ -11,7 +11,7 @@ nav_order: 6
 
 ### Scenario
 
-We have manually resolved a few identity, session, and user based security settings, but there is still a lot we can do to increase their security posture. Let's go back to Health Check and fix additional risks, import your own baseline, as well as configure it to notify you of any changes in your Security Score.
+We have manually resolved a few identity, session, and user based security settings, but there is still a lot we can do to increase our security posture. Let's go back to Health Check and fix additional risks, import your own baseline, as well as configure it to notify you of any changes in your Security Score.
 
 ### Step 1: Return to Health Check
 
@@ -124,4 +124,4 @@ Health Check is more than just a list of security settings. By setting up notifi
 
 ---
 
-[← Exercise 3: User Security](05-exercise-3-user-security.md) | [Project Home](../index.md) | [Exercise 5: Fix Remaining Risks (Optional) →](07-exercise-5-fix-remaining-risks-optional.md)
+[← Exercise 3: Dive into User Security](05-exercise-3-user-security.md) | [Project Home](../index.md) | [Exercise 5: Fix Remaining Risks (Optional) →](07-exercise-5-fix-remaining-risks-optional.md)

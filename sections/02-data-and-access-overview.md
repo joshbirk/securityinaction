@@ -3,7 +3,7 @@ title: Data & Access Overview
 nav_order: 2
 ---
 
-[← Getting Started](01-getting-started.md) | [Project Home](../index.md) | [Exercise 1: Health Check →](03-exercise-1-health-check.md)
+[← Getting Started](01-getting-started.md) | [Project Home](../index.md) | [Exercise 1: Take Action with Health Check →](03-exercise-1-health-check.md)
 
 ---
 
@@ -40,4 +40,4 @@ Continue with the exercises:
 
 ---
 
-[← Getting Started](01-getting-started.md) | [Project Home](../index.md) | [Exercise 1: Health Check →](03-exercise-1-health-check.md)
+[← Getting Started](01-getting-started.md) | [Project Home](../index.md) | [Exercise 1: Take Action with Health Check →](03-exercise-1-health-check.md)

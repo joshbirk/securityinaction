@@ -17,9 +17,9 @@ In this workshop, you'll be empowered to become the front-line defender of your 
 - [Data & Access Overview](sections/02-data-and-access-overview.md)
 
 ### Exercises
-- [Exercise 1: Health Check](sections/03-exercise-1-health-check.md)
+- [Exercise 1: Take Action with Health Check](sections/03-exercise-1-health-check.md)
 - [Exercise 2: Update Session Security](sections/04-exercise-2-update-session-security.md)
-- [Exercise 3: User Security](sections/05-exercise-3-user-security.md)
+- [Exercise 3: Dive into User Security](sections/05-exercise-3-user-security.md)
 - [Exercise 4: Configure Health Check](sections/06-exercise-4-configure-health-check.md)
 - [Exercise 5: Fix Remaining Risks (Optional)](sections/07-exercise-5-fix-remaining-risks-optional.md)
 - [Exercise 6: Secure Your Data with Shield](sections/08-exercise-6-secure-your-data-with-shield.md)

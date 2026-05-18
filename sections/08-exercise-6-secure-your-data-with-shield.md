@@ -106,7 +106,7 @@ In this exercise, you used Salesforce Shield's Data Detect capabilities to proac
 
 While other Shield tools focus on protecting or monitoring data, Data Detect is about discovery. It tells you where the "secret" data is actually hiding so you don't have to guess. For an admin, managing a large Salesforce org can feel like trying to organize a library where people keep scribbling secrets in the margins of random books—Data Detect helps you regain control.
 
-> **Further Reading:** [Experience Cloud Security](13-further-reading-experience-cloud.md)
+> **Further Reading:** [Additional Resources](14-additional-resources.md)
 
 ---
 

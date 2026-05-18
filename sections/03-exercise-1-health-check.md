@@ -1,5 +1,5 @@
 ---
-title: "Exercise 1: Health Check"
+title: "Exercise 1: Take Action with Health Check"
 nav_order: 3
 ---
 
@@ -7,7 +7,7 @@ nav_order: 3
 
 ---
 
-# Exercise 1: Health Check
+# Exercise 1: Take Action with Health Check
 
 ### Scenario
 
