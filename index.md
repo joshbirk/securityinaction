@@ -31,5 +31,4 @@ In this workshop, you'll be empowered to become the front-line defender of your 
 - [Using the Audit Trail](sections/10-further-reading-using-the-audit-trail.md)
 - [Understand the Security Hierarchy](sections/11-further-reading-understand-the-security-hierarchy.md)
 - [Session Based Problem Users](sections/12-further-reading-session-based-problem-users.md)
-- [Experience Cloud Security](sections/13-further-reading-experience-cloud.md)
 - [Additional Resources](sections/14-additional-resources.md)

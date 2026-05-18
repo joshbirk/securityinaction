@@ -3,7 +3,7 @@ title: Additional Resources
 nav_order: 14
 ---
 
-[← Further Reading: Experience Cloud](13-further-reading-experience-cloud.md) | [Project Home](../index.md)
+[← Further Reading: Session Based Problem Users](12-further-reading-session-based-problem-users.md) | [Project Home](../index.md)
 
 ---
 
@@ -58,4 +58,4 @@ Salesforce's free gamified learning platform offers specific "trails" for securi
 
 ---
 
-[← Further Reading: Experience Cloud](13-further-reading-experience-cloud.md) | [Project Home](../index.md)
+[← Further Reading: Session Based Problem Users](12-further-reading-session-based-problem-users.md) | [Project Home](../index.md)
